@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fd151360022ed0a1e46f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MemorizerWords",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MemorizerWords::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MemorizerWords-Debug-9d52075c30a05436b249.json",
+					"name" : "MemorizerWords",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MemorizerWords_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MemorizerWords_autogen-Debug-9dc4778ab894d586722c.json",
+					"name" : "MemorizerWords_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MemorizerWords_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MemorizerWords_autogen_timestamp_deps-Debug-9c36ebe7173bdb03aeed.json",
+					"name" : "MemorizerWords_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Codigos/CPP/MemorizerWords/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+		"source" : "D:/Codigos/CPP/MemorizerWords"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
